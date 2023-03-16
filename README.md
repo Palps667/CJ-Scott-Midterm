@@ -7,4 +7,4 @@ I'm a massive _Game of Thrones_ Fan and for my midterm project I wanted to do so
 ## **Lord Robert Baratheon and Prince Rhaegar fighting at the Battle of the Trident 283AC**
 # The War of the Five Kings Context
 >“When you play the game of thrones, you win or you die.” - Cersei Lannister
-The year is 297AC. It has been 14 years since Robert's Rebellion.
+The year is 297AC. It has been 14 years since [Robert's Rebellion.](https://awoiaf.westeros.org/index.php/Robert%27s_Rebellion) [Jon Arryn](https://awoiaf.westeros.org/index.php/Jon_Arryn) Hand of the King and Lord of the Vale has been assassinated. For 14 years bar the [Greyjoy Rebellion](https://awoiaf.westeros.org/index.php/Greyjoy%27s_Rebellion)there has been peace. 
