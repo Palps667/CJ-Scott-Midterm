@@ -1,5 +1,5 @@
 # CJ Scott - Midterm
-My name is Ian C.J. Scott. I'm a Junior majoring in Economics and History and minoring in Political Science, Constutional Democracy, and Ancient Meditteraen Studies. I'm taking this class as an elective for Economics. I love apple pie and butter pecan ice cream. I have an Xbox Series X and a PC. I built my pc exactly 3 years ago this time in 2020 and I built it primarly to play [Mount and Blade II: Bannerlord](https://www.taleworlds.com/en/Games/Bannerlord/) at the time. I now play a massive varitey of games. 
+My name is Ian C.J. Scott. I'm a Junior majoring in Economics and History and minoring in Political Science, Constutional Democracy, and Ancient Meditteraen Studies. I'm taking this class as an elective for Economics. I love apple pie and butter pecan ice cream. I have an Xbox Series X and a PC. I built my pc exactly 3 years ago this time in 2020 and I built it primarly to play [Mount and Blade II: Bannerlord](https://www.taleworlds.com/en/Games/Bannerlord/) at the time. I now play a massive a whole heap of games. 
 
 I'm a massive _Game of Thrones_ Fan and for my midterm project I wanted to do something fun. So I decided to do a summary of the War of the 5 Kings from the perspective of the Books.
 
