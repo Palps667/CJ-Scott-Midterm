@@ -11,29 +11,14 @@ I'm a massive _Game of Thrones_ Fan and for my midterm project I wanted to do so
   >The year is 297 A.C. It has been 14 years since [Robert's Rebellion.](https://awoiaf.westeros.org/index.php/Robert%27s_Rebellion) [Jon Arryn](https://awoiaf.westeros.org/index.php/Jon_Arryn) Hand of the King and Lord of the Vale has been assassinated. For 14 years bar the [Greyjoy Rebellion](https://awoiaf.westeros.org/index.php/Greyjoy%27s_Rebellion), there has been peace. In the following year 298, A.C. [King Robert](https://awoiaf.westeros.org/index.php/Robert_I_Baratheon) traveled to The North to ask his friend [Lord Eddard Stark](https://awoiaf.westeros.org/index.php/Eddard_Stark) to be the new Hand of the King. At [Winterfell](https://awoiaf.westeros.org/index.php/Winterfell), [Bran Stark](https://awoiaf.westeros.org/index.php/Bran_Stark) son of Eddard has a mysterious accident and tensions begin to boil between Lannisters and Starks. Eddard (Ned) Stark acceps King Robert's offer and travels south to the capital, Kings Landing to assume his position as Hand of the King. Upon reaching the capital, Ned immediately begins investigating the death of Jon Arryn and arrives at two conclusions: Jon Arryn was likely murdered and that King Robert’s legitimate children, [Joffrey](https://awoiaf.westeros.org/index.php/Joffrey_Baratheon), [Myrcella](https://awoiaf.westeros.org/index.php/Myrcella_Baratheon) and [Tommen](https://awoiaf.westeros.org/index.php/Tommen_Baratheon) are illegitimate children. King Robert’s children were born of [Queen Cersei's](https://awoiaf.westeros.org/index.php/Cersei_Lannister) twin brother Ser [Jaime Lannister](https://awoiaf.westeros.org/index.php/Jaime_Lannister). Once Ned realizes this truth he warns Queen Cersei out of a sense of honor and for the security of her children. Cersei ignores Ned’s warning and has King Robert killed before anything could happen. Cersei swiftly crowns her son Joffery, as king. Ned protests this, as [Stannis Baratheon](https://awoiaf.westeros.org/index.php/Stannis_Baratheon), Robert’s younger brother, is the rightful monarch. Ned is imprisoned and eventually executed, sparking war between the Lannisters and the Starks. Stannis seeking his rightful throne, declares his claim for the throne. [Renly Baratheon](https://awoiaf.westeros.org/index.php/Renly_Baratheon), younger brother of Robert and Stannis declares his claim and allies with the [Tyrells](https://awoiaf.westeros.org/index.php/House_Tyrell). Sensing unease, [Balon Greyjoy](https://awoiaf.westeros.org/index.php/Balon_Greyjoy) declares himself King again and revolts against the Iron throne. [Robb Stark](https://awoiaf.westeros.org/index.php/Robb_Stark), son of Ned declares himself King of the North and Westeros finds itself at war once again. 
 
 ## **The Five Kings**
-* King Joffery Baratheon [a relative link](Joffery.md)
+* [King Joffery Baratheo](Joffery.md)
 * King Robb Stark
 * King Stannis Baratheon
 * King Renly Baratheon
 * King Balon Greyjoy
 
 
-# King Joffery Baratheon
-![Joffery Baratheon](https://awoiaf.westeros.org/images/0/08/MagaliVilleneuve_JoffreyBaratheon.jpg)
-## Reign
-298-300 A.C.
-## Born
-286 A.C. King's Landing
-## Death
-300 A.C. King's Landing
-## Main Supporters
-* House Lannister
-* House Tyrell*
-* Houses of the Westerlands
-* Houses of the Reach
-## Bio 
->Joffery Baratheon was the son of King Robert Baratheon and  Queen Cersei Lannister. Joffery's biological father was Ser Jaime Lannister. Joffery grew up to be a spoiled sadistic child that thought nothing of others and only of himself. In 298 A.C., King Robert would die and Queen Cersei would crown Joffery as King. Joffery's first major act as King would be to order the death of Ned Stark. This action started the war between the Lannisters and the Starks and led to the capture of Joffery's true father, Jaime Lannister at the hands of the Starks. Joffery would not take the field personally as his faction was largely led by his Lannister family members. Chiefly, his grandfather the mighty [Tywin Lannister](https://awoiaf.westeros.org/index.php/Tywin_Lannister), Lord of the Westerlands. Joffery would reign with a marked sadistic streak ordering the death of his illegitimate half siblings in order to secure his claim. Joffery would also routinely torture and murder scores of people for his own amusement. These actions would cause a great deal of unrest in the city and lead to the commoners rioting against his rule. King Joffery would nearly be killed in one such riot. After the death of King Renly Baratheon, King Stannis Baratheon would sail for King's Landing. A battle would commence and be known as the [Battle of the Blackwater](https://awoiaf.westeros.org/index.php/Battle_of_the_Blackwater). House Tyrell would flip to Joffery's side and aid in the defeat of Stannis. As a reward to House Tyrell, Joffery would pledge to marry [Margaery Tyrell](https://awoiaf.westeros.org/index.php/Margaery_Tyrell) setting aside his betrothal to [Sansa Stark](https://awoiaf.westeros.org/index.php/Sansa_Stark). Joffery would eventually marry Margaery Tyrell at the [Purple Wedding](https://awoiaf.westeros.org/index.php/Purple_Wedding) where he would meet his end at the poison of a dry pie. Joffery is remembered as a brutal King and was succeeded by his young brother Tommen.    
->For more info on Joffery check out the [wiki](https://awoiaf.westeros.org/index.php/Joffrey_Baratheon) 
+ 
 
 # King Robb Stark
 ![Robb Stark](https://i.pinimg.com/originals/40/d0/1b/40d01bbc0b8d0a87984892f540ef9e34.jpg)
