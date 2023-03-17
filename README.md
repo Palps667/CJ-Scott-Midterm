@@ -14,7 +14,7 @@ I'm a massive _Game of Thrones_ Fan and for my midterm project I wanted to do so
 * [King Joffery Baratheon](Joffery.md)
 * [King Robb Stark](Robb Stark.md)
 * [King Stannis Baratheon](Stannis.md)
-* [King Renly Baratheon]()
-* [King Balon Greyjoy]()
+* [King Renly Baratheon](Renly.md)
+* [King Balon Greyjoy](Balon.md)
 
 
