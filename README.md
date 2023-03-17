@@ -11,30 +11,11 @@ I'm a massive _Game of Thrones_ Fan and for my midterm project I wanted to do so
   >The year is 297 A.C. It has been 14 years since [Robert's Rebellion.](https://awoiaf.westeros.org/index.php/Robert%27s_Rebellion) [Jon Arryn](https://awoiaf.westeros.org/index.php/Jon_Arryn) Hand of the King and Lord of the Vale has been assassinated. For 14 years bar the [Greyjoy Rebellion](https://awoiaf.westeros.org/index.php/Greyjoy%27s_Rebellion), there has been peace. In the following year 298, A.C. [King Robert](https://awoiaf.westeros.org/index.php/Robert_I_Baratheon) traveled to The North to ask his friend [Lord Eddard Stark](https://awoiaf.westeros.org/index.php/Eddard_Stark) to be the new Hand of the King. At [Winterfell](https://awoiaf.westeros.org/index.php/Winterfell), [Bran Stark](https://awoiaf.westeros.org/index.php/Bran_Stark) son of Eddard has a mysterious accident and tensions begin to boil between Lannisters and Starks. Eddard (Ned) Stark acceps King Robert's offer and travels south to the capital, Kings Landing to assume his position as Hand of the King. Upon reaching the capital, Ned immediately begins investigating the death of Jon Arryn and arrives at two conclusions: Jon Arryn was likely murdered and that King Robert’s legitimate children, [Joffrey](https://awoiaf.westeros.org/index.php/Joffrey_Baratheon), [Myrcella](https://awoiaf.westeros.org/index.php/Myrcella_Baratheon) and [Tommen](https://awoiaf.westeros.org/index.php/Tommen_Baratheon) are illegitimate children. King Robert’s children were born of [Queen Cersei's](https://awoiaf.westeros.org/index.php/Cersei_Lannister) twin brother Ser [Jaime Lannister](https://awoiaf.westeros.org/index.php/Jaime_Lannister). Once Ned realizes this truth he warns Queen Cersei out of a sense of honor and for the security of her children. Cersei ignores Ned’s warning and has King Robert killed before anything could happen. Cersei swiftly crowns her son Joffery, as king. Ned protests this, as [Stannis Baratheon](https://awoiaf.westeros.org/index.php/Stannis_Baratheon), Robert’s younger brother, is the rightful monarch. Ned is imprisoned and eventually executed, sparking war between the Lannisters and the Starks. Stannis seeking his rightful throne, declares his claim for the throne. [Renly Baratheon](https://awoiaf.westeros.org/index.php/Renly_Baratheon), younger brother of Robert and Stannis declares his claim and allies with the [Tyrells](https://awoiaf.westeros.org/index.php/House_Tyrell). Sensing unease, [Balon Greyjoy](https://awoiaf.westeros.org/index.php/Balon_Greyjoy) declares himself King again and revolts against the Iron throne. [Robb Stark](https://awoiaf.westeros.org/index.php/Robb_Stark), son of Ned declares himself King of the North and Westeros finds itself at war once again. 
 
 ## **The Five Kings**
-* [King Joffery Baratheo](Joffery.md)
+* [King Joffery Baratheon](Joffery.md)
 * King Robb Stark
 * King Stannis Baratheon
 * King Renly Baratheon
 * King Balon Greyjoy
-
-
- 
-
-# King Robb Stark
-![Robb Stark](https://i.pinimg.com/originals/40/d0/1b/40d01bbc0b8d0a87984892f540ef9e34.jpg)
-## Reign
-299 A.C.
-## Born
-283 A.C. Riverun
-## Death
-299 A.C. The Twins
-## Main Supporters
-* House Tully
-* Houses of the North
-* Houses of the Riverlands
-## Bio
->Robb Stark is the eldest son of Lord Eddard Stark and Lady [Catelyn Tully](https://awoiaf.westeros.org/index.php/Catelyn_Stark). Robb was born in Riverrun in the waning days of Robert's Rebellion. Robb would grow up to be a skilled warrior, courteous and honorable boy. Robb was close to all his siblings and to his father's ward [Theon Greyjoy](https://awoiaf.westeros.org/index.php/Theon_Greyjoy). After the jailing of his father, Robb Stark called the Banners of the North to march south to free his father. At [The Twins](https://awoiaf.westeros.org/index.php/Twins), Robb Stark would be forced to make a betrothal to a daughter to Lord [Walder Frey](https://awoiaf.westeros.org/index.php/Walder_Frey) in order to cross the [Green Fork](https://awoiaf.westeros.org/index.php/Green_Fork) of the [Trident](https://awoiaf.westeros.org/index.php/Trident) river. After crossing the Green Fork, Robb would hurry south to relieve the siege of Riverrun. At the [Battle of Whispering Wood](https://awoiaf.westeros.org/index.php/Battle_in_the_Whispering_Wood), Robb would capture and defeat Jaime Lannister. Shortly after Robb would rout the Lannisters at the [Battle of the Camps](https://awoiaf.westeros.org/index.php/Battle_of_the_Camps). After Ned Stark is executed, Robb proclaims himself King of the North and the Trident. Robb makes peace envoys to King's Landing but is rejected. Robb also sends envoys to King Renly Baratheon but these fail as well. Robb ventures west into the [Westerlands](https://awoiaf.westeros.org/index.php/Westerlands) defeating several Lannister armies. Robb would also seize many castles however, he is wounded during the storming of one. It is around this time that word of the fall of [Winterfell](https://awoiaf.westeros.org/index.php/Winterfell) and the "death" of his younger brothers reach Robb. In a moment of despair Robb sleeps with Lady [Jeyne Westerling](https://awoiaf.westeros.org/index.php/Jeyne_Westerling). In order to preserve her honor he marries her. This severs ties with the Lord Walder Frey. Eventually ties with [House Karstark](https://awoiaf.westeros.org/index.php/House_Karstark) are broken as well leading to Robb resorting to making peace with [House Frey](https://awoiaf.westeros.org/index.php/House_Frey). Walder Frey furious with Robb plots with Tywin Lannister and Lord [Roose Bolton](https://awoiaf.westeros.org/index.php/Roose_Bolton) to kill Robb at the wedding of Robb's uncle Edmure to Walder's daughter Roslin. At the [Red Wedding](https://awoiaf.westeros.org/index.php/Red_Wedding)Robb is killed alongside his mother. Roose Bolton assumes control of The North. Robb is remembered as a young, brave and brash King that was talented at war but terrible at politics.
-  >For more info on Robb check out the [wiki](https://awoiaf.westeros.org/index.php/Robb_Stark)   
 
 # King Stannis Baratheon
 ![Stannis Baratheon](https://th.bing.com/th/id/OIP.vR2gjgXLl_sQz50N5fRU6QHaJ4?w=203&h=271&c=7&r=0&o=5&dpr=1.5&pid=1.7))
