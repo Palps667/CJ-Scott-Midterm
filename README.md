@@ -12,10 +12,10 @@ I'm a massive _Game of Thrones_ Fan and for my midterm project I wanted to do so
 
 ## **The Five Kings**
 * [King Joffery Baratheon](Joffery.md)
-* [King Robb Stark] (Robb Stark.md)
-* King Stannis Baratheon
-* King Renly Baratheon
-* King Balon Greyjoy
+* [King Robb Stark](Robb Stark.md)
+* [King Stannis Baratheon]()
+* [King Renly Baratheon]()
+* [King Balon Greyjoy]()
 
 # King Stannis Baratheon
 ![Stannis Baratheon](https://th.bing.com/th/id/OIP.vR2gjgXLl_sQz50N5fRU6QHaJ4?w=203&h=271&c=7&r=0&o=5&dpr=1.5&pid=1.7))
