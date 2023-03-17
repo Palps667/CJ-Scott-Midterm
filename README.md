@@ -12,7 +12,7 @@ I'm a massive _Game of Thrones_ Fan and for my midterm project I wanted to do so
 
 ## **The Five Kings**
 * [King Joffery Baratheon](Joffery.md)
-* King Robb Stark
+* [King Robb Stark] (Robb Stark.md)
 * King Stannis Baratheon
 * King Renly Baratheon
 * King Balon Greyjoy
